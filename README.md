@@ -4,9 +4,9 @@ In traditional functionally separated organizations there is rarely cross-depart
 
 DevOps Summary points:
 
-*Infrastructure as code
-*Shared visibility into systems
-*Automated deployment
+**Infrastructure as code
+**Shared visibility into systems
+**Automated deployment
 
 DevOps is about a shift in company culture. It is about development and operations teams working closely. It is about removing organizational silos that slow down deployments and affect your customers, both internal and external. It doesn't mean cutting corners in procedures, but it does mean being efficient in your communication. It means understanding that building and deploying complex applications is a collaborative effort, and no team works in a vacuum.
 
