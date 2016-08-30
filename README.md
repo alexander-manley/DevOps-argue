@@ -34,7 +34,7 @@ Configure – Infrastructure configuration and management, Infrastructure as Cod
 
 Monitor – Applications performance monitoring, end user experience
 
-Tools such as Docker (containerization); Jenkins (continuous Integration); Ansible (Infrastructure as Code); Vagrant (virtualization tool); Mesos/DCOS (Cluster Orchestration); Kubernetes/Openshift & Cloud Foundry (Docker PaaS's) among many others.
+Examples of DevOps tooling include Docker (containerization); Jenkins (continuous Integration); Ansible (Infrastructure as Code); Vagrant (virtualization wrapper); Mesos/DCOS (Cluster Orchestration); Kubernetes/Openshift & Cloud Foundry (Docker PaaS's) among many others.
 
 Adoption of DevOps is being driven by many factors including:
 
