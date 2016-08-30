@@ -4,9 +4,11 @@ In traditional functionally separated organizations there is rarely cross-depart
 
 DevOps Summary points:
 
-**Infrastructure as code
-**Shared visibility into systems
-**Automated deployment
+*Infrastructure as code
+
+*Shared visibility into systems
+
+*Automated deployment
 
 DevOps is about a shift in company culture. It is about development and operations teams working closely. It is about removing organizational silos that slow down deployments and affect your customers, both internal and external. It doesn't mean cutting corners in procedures, but it does mean being efficient in your communication. It means understanding that building and deploying complex applications is a collaborative effort, and no team works in a vacuum.
 
@@ -19,14 +21,20 @@ Containerisation and virtualization are the focus.  Instead of a delivery pipeli
 Because DevOps is a cultural shift and collaboration between development, operations and testing, there is no single DevOps tool, rather a set or “DevOps toolchain” consisting of multiple tools. Generally, DevOps tools fit into one or more of these categories, which is reflective of the software development and delivery process:
 
 Code – Code development and review, continuous integration tools
+
 Build – Version control tools, code merging, build status
+
 Test – Test and results determine performance
+
 Package – Artifact repository, application pre-deployment staging
+
 Release – Change management, release approvals, release automation
+
 Configure – Infrastructure configuration and management, Infrastructure as Code tools
+
 Monitor – Applications performance monitoring, end user experience
-Though there are many tools available, certain categories of them are essential in the DevOps toolchain setup for use in an organization. Some attempts to identify those basic tools can be found in the existing literature.
-Tools such as Docker (containerization), Jenkins (continuous Integration), Puppet (Infrastructure as Code) and Vagrant (virtualization platform) among others.
+
+Tools such as Docker (containerization); Jenkins (continuous Integration); Ansible (Infrastructure as Code); Vagrant (virtualization tool); Mesos/DCOS (Cluster Orchestration); Kubernetes/Openshift & Cloud Foundry (Docker PaaS's) among many others.
 
 Adoption of DevOps is being driven by many factors including:
 
